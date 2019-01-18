@@ -19,3 +19,17 @@
     font-weight: bold;
     margin: 20px 0;
 }
+.miki1 {
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.miki1 h4 {
+    color: grey;
+}
+.miki1 h3 {
+    font-size: 35px;
+    font-weight: bold;
+}
