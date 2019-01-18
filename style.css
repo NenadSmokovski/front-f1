@@ -1,0 +1,13 @@
+.navbar-default{
+    background-color: white;
+}
+.navbar-brand{
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+.nav button{
+    margin-right: 50px;
+    padding: 6px 40px;
+    border-radius: 30px;
+}
