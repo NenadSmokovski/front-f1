@@ -1,0 +1,21 @@
+.miki {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background-color: grey;
+    color: white;
+    background-image: linear-gradient(to bottom right,rgba(21, 21, 201, 0.589), rgba(199, 46, 46, 0.63));
+}
+.flex h4:first-child, .flex h1 {
+    text-shadow: 1px 1px #070000;
+}
+.flex h1 {
+    font-size: 45px;
+}
+.flex button {
+    border-radius: 15px;
+    padding: 5px 35px;
+    color: tomato;
+    font-weight: bold;
+    margin: 20px 0;
+}
